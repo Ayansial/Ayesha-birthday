@@ -1,11 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Questions</title>
+<title>Questions 💭</title>
 <style>
-body{background:#fad0c4;font-family:Arial;text-align:center;padding:60px}
-.box{background:white;padding:30px;border-radius:20px}
-a{display:block;margin-top:20px;text-decoration:none;color:#ff4d6d}
+body{
+  background:#fad0c4;
+  font-family:Arial;
+  text-align:center;
+  padding:60px
+}
+.box{
+  background:white;
+  padding:35px;
+  border-radius:20px;
+  max-width:500px;
+  margin:auto
+}
+a{
+  display:inline-block;
+  margin-top:25px;
+  padding:12px 25px;
+  background:#ff4d6d;
+  color:white;
+  text-decoration:none;
+  border-radius:25px
+}
 </style>
 </head>
 <body>
@@ -14,14 +33,16 @@ a{display:block;margin-top:20px;text-decoration:none;color:#ff4d6d}
 <h2>Just From My Heart 💭</h2>
 
 <p>
-💖 Do you love me truly?<br><br>
+💖 Do you truly love me?<br><br>
 💍 Do you see me in your future?<br><br>
 🌍 Even with distance, will you stay with me?<br><br>
 😊 Do I make you feel safe and happy?
 </p>
 
-<a href="future.html">Future & Distance 🌍</a>
+<a href="future.html">Our Future 🌍</a><br><br>
+<a href="index.html">Back to Home 🏠</a>
 </div>
 
 </body>
 </html>
+
